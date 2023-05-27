@@ -111,6 +111,10 @@ This mod is not compatible with any mod that alters any of the following files:
 #### Spears
 - Lightscale Trident - 22
 
+### Bows
+- Dusk Bow (Twilight Bow - Shoots straight like in Botw
+
 ### BotwStatsInfDur
 - Swords, Longswords, and Spears have their buffed damage
+- Dusk Bow Shoots straight
 - Swords, Longswords, Spears, and Bows Are unbreakable
