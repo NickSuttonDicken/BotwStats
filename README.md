@@ -78,7 +78,7 @@ This mod is not compatible with any mod that alters any of the following files:
 - `romfs/Pack/Actor/Weapon_Lsword_059.pack.zs`.
 - `romfs/Pack/Actor/Weapon_Lsword_060.pack.zs`.
 - `romfs/Pack/Actor/Weapon_Spear_050.pack.zs`.
-- `romfs/RSDB/PouchActorInfo.Product.110.rstbl.byml.zs`.
+- `romfs/RSDB/PouchActorInfo.Product.[version].rstbl.byml.zs`.
 ### BotwStatsInfDur
 - `romfs/Pack/Actor/Weapon_Bow_028.pack.zs`.
 - `romfs/Pack/Actor/Weapon_Bow_072.pack.zs`.
@@ -91,7 +91,7 @@ This mod is not compatible with any mod that alters any of the following files:
 - `romfs/Pack/Actor/Weapon_Lsword_059.pack.zs`.
 - `romfs/Pack/Actor/Weapon_Lsword_060.pack.zs`.
 - `romfs/Pack/Actor/Weapon_Spear_050.pack.zs`.
-- `romfs/RSDB/PouchActorInfo.Product.110.rstbl.byml.zs`.
+- `romfs/RSDB/PouchActorInfo.Product.[version].rstbl.byml.zs`.
 
 ## Changes
 ### BotwStatsNormal
