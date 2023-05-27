@@ -65,7 +65,7 @@ Open Ryujinx. Right-click Tears of the Kingdom > Open Mods Directory. Copy the
 
 ## Compatibility
 
-This mod was tested with Tears of the Kingdom v1.1.0 . Probably won't work with v1.0.0 but should work with v1.1.1
+This mod was tested with Tears of the Kingdom v1.1.1 . Probably won't work with v1.0.0 but should work with v1.1.0 and v1.1.2
 
 This mod is not compatible with any mod that alters any of the following files:
 ### BotwStatsNormal
